@@ -19,7 +19,7 @@ function FaqPage() {
               aria-expanded="false"
               aria-controls="flush-collapseOne"
             >
-              Accordion Item #1
+              the first Accordion
             </button>
           </h2>
           <div
